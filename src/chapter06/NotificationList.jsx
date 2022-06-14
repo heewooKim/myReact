@@ -1,7 +1,7 @@
 import React from "react";
 import Notification from "./Notification";
 
-//주석123123
+//주석추가
 
 const reservedNotifications = [
     {
