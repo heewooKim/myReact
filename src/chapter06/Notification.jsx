@@ -1,6 +1,8 @@
 import { render } from "@testing-library/react";
 import React from "react";
 
+//주석
+
 const styles = {
     wrapper: {
         margin: 8,
