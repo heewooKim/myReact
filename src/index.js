@@ -5,10 +5,11 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import CommentList from "./chapter/CommentList";
+import NotificationList from "./chapter06/NotificationList";
 
 ReactDOM.render(
   <React.StrictMode>
-    <CommentList />
+    <NotificationList />
   </React.StrictMode>,
   document.getElementById('root')
 );
